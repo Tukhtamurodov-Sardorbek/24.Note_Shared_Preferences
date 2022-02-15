@@ -1,0 +1,18 @@
+{
+  "notes" : "QAYDLAR",
+  "empty" : "Bo'sh",
+  "new_note" : "Yangi qayd",
+  "note" : "Eslatma",
+  "title" : "Sarlavha",
+  "edit" : "Tahrirlash",
+  "cancel" : "O'chirish",
+  "ok" : "Saqlash",
+  "tooltip_lang" : "Til",
+  "tooltip_theme" : "Mavzu",
+  "tooltip_sort" : "Saralash",
+  "eng" : "Inglizcha",
+  "ru" : "Ruscha",
+  "uz" : "O'zbekcha",
+  "sort_by_time" : "Yaratilish vaqti",
+  "sort_by_level" : "Muhimlik darajasi"
+}

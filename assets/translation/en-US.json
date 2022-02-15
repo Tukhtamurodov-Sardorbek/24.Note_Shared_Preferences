@@ -1,0 +1,18 @@
+{
+  "notes" : "NOTES",
+  "empty" : "Empty",
+  "new_note" : "New Note",
+  "note" : "Note",
+  "title" : "Title",
+  "edit" : "Edit",
+  "cancel" : "Cancel",
+  "ok" : "OK",
+  "tooltip_lang" : "Language",
+  "tooltip_theme" : "Theme",
+  "tooltip_sort" : "Sort",
+  "eng" : "English",
+  "ru" : "Russian",
+  "uz" : "Uzbek",
+  "sort_by_time" : "Creation time",
+  "sort_by_level" : "Importance level"
+}
